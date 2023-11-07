@@ -28,8 +28,8 @@ html {
     border-radius: 0.25rem;
     display: grid;
     grid-template-columns: repeat(3, 300px);
-    min-height: 525px;
-    min-width: 901px;
+    height: 525px;
+    width: 901px;
     position: relative;
 }
 
