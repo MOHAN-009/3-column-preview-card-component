@@ -28,7 +28,7 @@ html {
     border-radius: 0.25rem;
     display: grid;
     grid-template-columns: repeat(3, 300px);
-    height: 525px;
+    min-height: 70vh;
     width: 901px;
     position: relative;
 }
